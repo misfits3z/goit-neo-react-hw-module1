@@ -1,0 +1,25 @@
+.friendItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .friendItem img {
+    border-radius: 50%;
+  }
+  
+  .friendItem p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  /* Стилі для онлайн та офлайн статусу */
+  .online {
+    color: green;
+  }
+  
+  .offline {
+    color: red;
+  }
+  
