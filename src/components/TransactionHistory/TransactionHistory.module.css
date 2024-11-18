@@ -7,7 +7,7 @@
   .head th {
     border: 2px solid black;
     color: white;
-    background-color: darkslategrey;
+    background-color: rgb(39, 45, 45);
   }
   .strings td {
     border: 2px solid black;
@@ -16,5 +16,5 @@
     text-transform: capitalize;
   }
   .strings:nth-child(2n) {
-    background-color: rgb(211, 220, 229);
+    background-color: rgb(200, 204, 208);
   }
